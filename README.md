@@ -1,3 +1,3 @@
 Restaurant Website
 
-Frontend website - HTML - CSS
+Frontend website - HTML - CSS - Javascript
